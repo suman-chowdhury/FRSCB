@@ -16,10 +16,11 @@ https://medium.com/@royce236/how-to-install-dlib-for-python-with-visual-studio-2
 https://cmake.org/download/
 
 
-After downloading these files download the Face2.py, model, image folder.
+After downloading/installing these libraries, download the Face2.py, model and image folder.
 
-Add your a facial photo in image/ forders.
-Add/modify load 
+Add your facial photo(s) in image folder.
 
-Then run the program.
-It will open the webcam and identify you.
+Then run the program, it will load and process your newly added photos and identify you as known person.
+If you do not add your photo, it will not identify you.
+
+Thank you for reading the file.
