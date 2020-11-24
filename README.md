@@ -23,4 +23,5 @@ Add your facial photo(s) in image folder.
 Then run the program, it will load and process your newly added photos and identify you as known person.
 If you do not add your photo, it will not identify you.
 
+There is a Microsoft Presentation File and a sample video file present for the review.
 Thank you for reading the file.
