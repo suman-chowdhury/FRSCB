@@ -192,7 +192,7 @@ if __name__ == "__main__":
                 dia("Face has not been captured property from webcam. Please try again!", "Failure!")
             if captureFlag:
                 flag = False
-                results = face_recognition.compare_faces(KNOWN_FACE_LIST, unknown_face, tolerance=.60)
+                results = face_recognition.compare_faces(KNOWN_FACE_LIST, unknown_face, tolerance=.80)
                 for x in results:
                     if x:
                         end = time.time()
